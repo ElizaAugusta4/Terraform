@@ -4,7 +4,7 @@ terraform.tfstate
 terraform.tfstate.backup
 *.tfstate
 *.tfstate.*
-.terraform.lock.hcl
+*.terraform.lock.hcl
 
 # Arquivos de variáveis sensíveis
 *.tfvars
